@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spew", "spew.vcproj", "{14C18755-C6E4-415B-9772-39DBC5C0F9B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Release-debugsymbols = Release-debugsymbols
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Debug.ActiveCfg = Debug|Win32
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Debug.Build.0 = Debug|Win32
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Release.ActiveCfg = Release|Win32
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Release.Build.0 = Release|Win32
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Release-debugsymbols.ActiveCfg = Release-debugsymbols|Win32
+		{14C18755-C6E4-415B-9772-39DBC5C0F9B1}.Release-debugsymbols.Build.0 = Release-debugsymbols|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
