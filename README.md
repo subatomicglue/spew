@@ -1,4 +1,4 @@
-# spew is a full featured output system for c++ programmers.
+# spew is a full featured console log/output system for c++ programmers.
 
 ## features:
 
